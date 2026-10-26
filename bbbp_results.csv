@@ -1,0 +1,5 @@
+Model,Accuracy,AUC
+Random Forest,0.892,0.929
+SVM,0.909,0.906
+kNN,0.885,0.847
+Neural network MLP,0.875,0.891
